@@ -33,3 +33,5 @@ Quel est votre nom d'utisateur ?
 - Vous avez terminé ! Félicitations 🎉 ! !!
 
 Pour aller plus loin, amusez-vous sur l'incroyable [https://learngitbranching.js.org/?demo](https://learngitbranching.js.org/?demo=&locale=fr_FR) !
+
+Le site https://learngitbranching.js.org permet de simuler les commandes majeurs de GIT que ce soit en local ou remote. Il propose des exercices corrigés.
